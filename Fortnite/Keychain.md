@@ -1,4 +1,4 @@
-# Island screenshots
+# Keychain
 Returns a JSON containing keychains for cosmetics
 
 ## Request
@@ -8,4 +8,4 @@ Returns a JSON containing keychains for cosmetics
 
 
 ## Utility
-Useful to get AES keys for cosmetics if you how
+Useful to get AES keys for cosmetics
